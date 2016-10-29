@@ -1,0 +1,14 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "BetaCode",
+			"details": "https://github.com/andrekugland-oplen/Sublime-BetaCode",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+}
