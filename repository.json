@@ -10,6 +10,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "Sectionizr",
+			"details": "https://github.com/andrekugland-oplen/Sectionizr",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
 		}
 	]
 }
